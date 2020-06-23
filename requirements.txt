@@ -19,7 +19,7 @@ pytz==2018.5
 setuptools==40.4.3 
 six==1.11.0 
 SQLAlchemy==1.2.12 
-Werkzeug==0.14.1 
+Werkzeug==0.15.3 
 wheel==0.32.0 
 WTForms==2.2.1 
 gunicorn==19.9.0
