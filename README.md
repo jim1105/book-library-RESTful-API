@@ -1,10 +1,10 @@
-### API Link
+# API Link
 https://teamgoat.herokuapp.com/
 
-### Background
+# Background
 I have an enormous collection of books; I'm also really particular about keeping them organized and discoverable. I want to be able to lend them to people for some period of time, know where they are and remind people to return them to me on time. I need a way to help me find books by author, subject, time period and even be able to possibly add some personal notes about the book.
 
-### Use Cases
+# Use Cases
 As a user, I want to be able to:
 
 * Add, remove, and update books in my library
@@ -18,7 +18,7 @@ As a user, I want to be able to:
 * Add, remove or update notes about a particular book for later reference
 * See which books are loaned out and to whom; also see whether they have returned them on time or not
 
-### Tools and Technologies
+# Tools and Technologies
 * Python
 * Flask (simple web framework)
 * PostgreSQL (for data storage)
