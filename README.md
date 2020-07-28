@@ -1,5 +1,5 @@
-# API Link
-https://teamgoat.herokuapp.com/
+# Live Demo
+To see the app in action, go to [Library API Demo](https://teamgoat.herokuapp.com/)
 
 # Background
 I have an enormous collection of books; I'm also really particular about keeping them organized and discoverable. I want to be able to lend them to people for some period of time, know where they are and remind people to return them to me on time. I need a way to help me find books by author, subject, time period and even be able to possibly add some personal notes about the book.
