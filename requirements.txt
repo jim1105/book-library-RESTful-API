@@ -20,7 +20,7 @@ setuptools==40.4.3
 six==1.11.0 
 SQLAlchemy==1.2.12 
 Werkzeug==0.14.1 
-wheel==0.32.0 
+wheel==0.38.1 
 WTForms==2.2.1 
 gunicorn==19.9.0
 flask-mail==0.9.1
