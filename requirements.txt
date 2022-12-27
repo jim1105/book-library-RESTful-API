@@ -16,7 +16,7 @@ psycopg2==2.7.5
 python-dateutil==2.7.5  
 python-editor==1.0.3  
 pytz==2018.5 
-setuptools==40.4.3 
+setuptools==65.5.1 
 six==1.11.0 
 SQLAlchemy==1.2.12 
 Werkzeug==0.14.1 
